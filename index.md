@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Welcome to CertVerify.me #
+CertVerify.me is to give potential employers a way to quickly and conveniently verify professional certifications issued by government agencies, professional trade organizations, and traditional and online education institutions with confidence.
 
-You can use the [editor on GitHub](https://github.com/DataGallery/certverifyme/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About the Project ### 
+With the changes in the future of work and gig economy, to support a skill-based workplace many potential candidates get certifications from government agencies (local and state for licenses like plumbers and electricians), professional trade organizations (like PMI), traditional education institutions (like high schools, trade schools, community colleges, and universities), and online education organizations (like udacity, HubSpot, and Jira).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Freelancers and contractors who rely on certifications to prove their skills benefit from a platform that gives potential employers an easy, quick, and reliable way to verify the certificates.
 
-### Markdown
+CertVerify.me is a platform that provides an aggregated view per potential candidate that is holding multiple certificates. Institutions issuing certificates can automatically upload the certificates and potential employers can conveniently verify the information via a mobile app. There may be an additional benefit to the certificate providers that currently do not have online platforms to verify certificates. The information is backed by blockchain.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Our Customers ### 
+CertVerify.me will directly serve three sets of audiences:
 
-```markdown
-Syntax highlighted code block
+First, organizations that issue professional certificates, from government agencies (state and local) that provide certifications for plumbers and electricians, professional trade organizations (like Project Management Institute, aka PMI for PMP, Axelos (ITIL), traditional educational organizations (high schools, universities, and community colleges) that issue diplomas, and online educational organizations (like Udacity) that issue nano degrees.
 
-# Header 1
-## Header 2
-### Header 3
+Second, employers who look to confidently and conveniently verify the certificates.
 
-- Bulleted
-- List
+Third, the potential job seekers will benefit from the optimized certification verification process.
 
-1. Numbered
-2. List
+### Our Team ### 
+We are currently looking for designers and developers who would like to join our project.
 
-**Bold** and _Italic_ and `Code` text
+### Architecture ### 
+The back end of the platform is blockchain. The interfaces are APIs and mobile app.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DataGallery/certverifyme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Support or Contact ###
+For more information about CertVerify.me project, contact the team at contact@datagallery.io
