@@ -1,5 +1,5 @@
 # Welcome to CertVerify.me #
-CertVerify.me is to give potential employers a way to quickly and conveniently verify professional certifications issued by government agencies, professional trade organizations, and traditional and online education institutions with confidence.
+CertVerify.me will give employers a way to quickly and conveniently verify professional certifications issued by government agencies, professional trade organizations, and traditional and online education institutions with confidence.
 
 ### About the Project ### 
 With the changes in the future of work and gig economy, to support a skill-based workplace many potential candidates get certifications from government agencies (local and state for licenses like plumbers and electricians), professional trade organizations (like PMI), traditional education institutions (like high schools, trade schools, community colleges, and universities), and online education organizations (like udacity, HubSpot, and Jira).
@@ -15,7 +15,7 @@ First, organizations that issue professional certificates, from government agenc
 
 Second, employers who look to confidently and conveniently verify the certificates.
 
-Third, potential job seekers will benefit from the optimized certification verification process.
+Third, potential job seekers will benefit from the instant certification verification process.
 
 ### Our Team ### 
 We are currently looking for designers and developers who would like to join our project.
