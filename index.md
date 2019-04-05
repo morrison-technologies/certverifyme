@@ -15,7 +15,7 @@ First, organizations that issue professional certificates, from government agenc
 
 Second, employers who look to confidently and conveniently verify the certificates.
 
-Third, the potential job seekers will benefit from the optimized certification verification process.
+Third, potential job seekers will benefit from the optimized certification verification process.
 
 ### Our Team ### 
 We are currently looking for designers and developers who would like to join our project.
