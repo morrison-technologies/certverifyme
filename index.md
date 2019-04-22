@@ -24,4 +24,4 @@ We are currently looking for designers and developers who would like to join our
 The back end of the platform is blockchain. The interfaces are APIs and mobile app.
 
 ### Support or Contact ###
-For more information about CertVerify.me project, contact the team at contact@datagallery.io
+For more information about CertVerify.me project, contact the team at info@morrisontechnologies.com
