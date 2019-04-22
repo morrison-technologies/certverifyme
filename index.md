@@ -18,7 +18,7 @@ Second, employers who look to confidently and conveniently verify the certificat
 Third, potential job seekers will benefit from the instant certification verification process.
 
 ### Our Team ### 
-We are currently looking for designers and developers who would like to join our project.
+Certverify.me project is a collaboration between Morrison Technologies and Data Gallery LLC.  We are currently looking for designers and developers who would like to join our project.
 
 ### Architecture ### 
 The back end of the platform is blockchain. The interfaces are APIs and mobile app.
